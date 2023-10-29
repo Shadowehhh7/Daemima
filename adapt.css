@@ -1,4 +1,20 @@
-@media{max-width:(376px);}{
-    
+@media (max-width:376px){
+    .darksoul{
+        position: absolute;
+        top: 600px;
+    }
+    .cost2{
+        position: absolute;
+        top: 270px;
+        left: 190px;
+    }
+    }
+    .vcost2{
+        position: absolute;
+        top: 270px;
+        left: 181px;
+    }
 }
+
+
 
