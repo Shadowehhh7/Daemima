@@ -170,14 +170,21 @@ div{
 	color: #ffffff;
 	position: absolute;
 	font-size: 30px;
-	left: 960px;
+	left: 1145px;
 	top: 470px;
 }
 .vcost2{
-	top: 468px;
-	left: 950px;
-	position: absolute;
 	width: 120px;
-  height: 35px;
-  background-color: #163853;
+	height: 50px;
+	background-color: #163853;
+	position: absolute;
+	top: 459px;
+	left: 1140px;
+}
+.cost3{
+	color: white;
+	position: absolute;
+	font-size: 30px;
+	left: 1400px;
+	top: 470px;
 }
