@@ -170,21 +170,36 @@ div{
 	color: #ffffff;
 	position: absolute;
 	font-size: 30px;
-	left: 1145px;
+	left: 955px;
 	top: 470px;
 }
 .vcost2{
 	width: 120px;
-	height: 50px;
+	height: 40px;
 	background-color: #163853;
 	position: absolute;
-	top: 459px;
-	left: 1140px;
+	top: 465px;
+	left: 950px;
 }
 .cost3{
+	z-index: 10;
 	color: white;
 	position: absolute;
 	font-size: 30px;
-	left: 1630px;
+	left: 1335px;
 	top: 470px;
+}
+.vcost3{
+	width: 120px;
+	height: 40px;
+	background-color: #163853;
+	position: absolute;
+	top: 465px;
+	left: 1325px;
+}
+.forza{
+	margin-top: 90px;
+	width: 950px;
+	height: 350px;
+	background-color: #000000;
 }
